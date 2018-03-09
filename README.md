@@ -1,2 +1,2 @@
 # Bookmarker
-Bookmark Application using JavaScript &amp; Bootstrap
+Bookmark application to familiarize myself with JavaScript & Bootstrap.
